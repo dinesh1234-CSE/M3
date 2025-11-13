@@ -14,7 +14,7 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 #include <math.h>
 void calculateEMI(double principal, double rate, int months) {
@@ -40,12 +40,10 @@ int main() {
 
 
 ## OUTPUT
-```
-Enter the principal amount: 500000
-Enter the annual rate of interest: 7.5
-Enter the number of months: 240
-The EMI for the loan is: 4242.93
-```
+
+<img width="444" height="150" alt="image" src="https://github.com/user-attachments/assets/1a50952e-9030-4d3f-977d-41ab4185ee10" />
+
+
 
 
 
@@ -71,7 +69,7 @@ To write a C program to generate the Fibonacci series for the value 6.
 7.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 
 int main() {
@@ -91,9 +89,10 @@ int main() {
 }
 ```
 ## OUTPUT
-```
-Fibonacci Series: 0 1 1 2 3 5
-```
+
+<img width="336" height="49" alt="image" src="https://github.com/user-attachments/assets/0c4b2ea3-f599-41e9-8789-61ae14091e77" />
+
+
 
 
 
@@ -119,7 +118,7 @@ To write a C program to read n elements as input and print the last element of t
 5.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 
 int main() {
@@ -139,19 +138,8 @@ int main() {
 ```
 
 ## OUTPUT
-```
-Enter the number of elements: 5
-Enter 5 elements:
-10 20 30 40 50
-The last element is: 50
-```
 
-
-
-
-
-
-
+<img width="400" height="152" alt="image" src="https://github.com/user-attachments/assets/8523e31f-9a86-48e5-8be0-e376538dce09" />
 
 
 ## RESULT
@@ -173,7 +161,7 @@ To write a C Program to count total number of positive elements in an array.
 6.	Stop the program.
 
 ## PROGRAM
-```
+```C
 #include <stdio.h>
 
 int main() {
@@ -202,12 +190,10 @@ int main() {
 
 
 ## OUTPUT
-```
-Enter the number of elements: 5
-Enter 5 elements:
-1 -3 5 7 -2
-Total number of positive elements: 3
-```
+
+<img width="497" height="140" alt="image" src="https://github.com/user-attachments/assets/1560fa19-8d38-4e78-8680-3502b7171924" />
+
+
 
 
 
@@ -240,7 +226,7 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
-```
+```C
 #include <stdio.h>
 
 int main() {
@@ -280,14 +266,8 @@ int main() {
 ```
 
 ## Output:
-```
-Enter the size of the array: 5
-Enter 5 elements:
-1 2 3 4 5
-Updated array:
-1 E 3 E 5
-```
- 
+
+<img width="398" height="140" alt="image" src="https://github.com/user-attachments/assets/c947d22f-ac47-4fe7-b1ed-d88e47a599f3" />
 
 
 ## Result:
